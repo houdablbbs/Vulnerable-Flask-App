@@ -3,7 +3,7 @@ name: SCA Praiyder Analysis
 on:
   push:
     branches:
-      - main
+      - main 
   pull_request:
     branches:
       - main
